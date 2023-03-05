@@ -1,7 +1,5 @@
 # 5 more mazes
 
-A Game Boy game.
-
 Roam the mazes, each one is larger and more difficult. A sequel to "5 mazes".
 
 ## Credits:
