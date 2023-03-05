@@ -5,7 +5,7 @@
     "_release": "1",
     "scenes": [
         {
-            "name": "Logo",
+            "name": "Title",
             "backgroundId": "c207e1f7-3060-4ac1-88aa-dcd460e682f1",
             "width": 20,
             "height": 18,
@@ -2219,8 +2219,8 @@
             ],
             "autoFadeSpeed": 1,
             "id": "c89837ee-ccd9-4982-ada0-423c1cc2ffca",
-            "x": 575,
-            "y": 159,
+            "x": 569,
+            "y": 170,
             "actors": [],
             "triggers": [
                 {
@@ -23855,7 +23855,7 @@
             "playerHit3Script": []
         },
         {
-            "name": "Scene 8",
+            "name": "GS logo",
             "backgroundId": "e02af441-7ed9-4403-8e5d-9bc337bcafe0",
             "width": 20,
             "height": 18,
@@ -39231,7 +39231,7 @@
             "playerHit3Script": []
         },
         {
-            "name": "Scene 9",
+            "name": "Victory",
             "backgroundId": "4f67a4ed-442c-4bd0-9ee5-80139f500432",
             "width": 20,
             "height": 18,
@@ -39600,7 +39600,7 @@
                 0,
                 0
             ],
-            "autoFadeSpeed": null,
+            "autoFadeSpeed": 1,
             "id": "59b91e0a-448b-4199-ade0-063f54b2236a",
             "x": 4123,
             "y": 210,
@@ -39752,7 +39752,8 @@
             "height": 18,
             "imageWidth": 160,
             "imageHeight": 144,
-            "filename": "win.png"
+            "filename": "win.png",
+            "tileColors": []
         }
     ],
     "spriteSheets": [
